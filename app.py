@@ -12,7 +12,7 @@ from ml_core import ROOT, FEATURES, TARGET, CLASSES, METRICS, evaluate, load_mod
 
 st.set_page_config(page_title="Dry Bean | Model Comparison", page_icon="🫘", layout="wide")
 st.title("Dry Bean Classification")
-st.caption("Machine Learning - Assignment 2 | DINESH BEHERA | 2026AJ05692")
+st.caption("Machine Learning - Assignment 2 | ESHITA SINGH | 2026AJ05946")
 st.write("Compare five classifiers using 16 measured shape features from seven dry bean varieties.")
 
 
